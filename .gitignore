@@ -1,6 +1,6 @@
 .gitignore
 
-# But not .cpp
+*
 !*.cpp
 
 /.vscode
